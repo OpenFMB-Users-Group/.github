@@ -1,15 +1,15 @@
 ## The OpenFMB Open Source Initiative
 
-This OpenFMB Users Group GitHub Organization serves as the official GitHub site for open source projects sponsored by the OpenFMB Users Group. It is the companion site to OpenFMB’s primary community site ([https://openfmb.net/](https://openfmb.net/)).
+This is the official GitHub site for open source projects sponsored by the OpenFMB Users Group. It is the companion site to OpenFMB’s primary community site ([https://openfmb.net/](https://openfmb.net/)).
 
-The OpenFMB Open Source Initiative is dedicated to providing open source projects and tooling that benefit the OpenFMB community at large with commercially friendly licenses. Our gaol is to:
+The OpenFMB Open Source Initiative is dedicated to providing open source projects and tooling that benefit the OpenFMB community at large with commercially friendly licenses. Our goal is to:
 
 - Provide awareness of OpenFMB open source projects and tooling
 - Promote open source projects that help advance OpenFMB and OpenFMB related standards
 - Provide a central repository for OpenFMB related open source projects and tooling
 - Provide a space for promoting collaboration around these projects within the OpenFMB community
 
-To inquire about the OpenFMB Open Source Initiative or to discuss contributing new projects to the initiative please contact us at [github.admin@ucaiug.org](mailto:github.admin@ucaiug.org).
+To inquire about the OpenFMB Open Source Initiative or to discuss contributing new projects to the initiative please contact us at [openfmb-admin@openfmb.org](mailto:openfmb-admin@openfmb.org).
 
 ## OpenFMB Users Group
 
@@ -34,4 +34,4 @@ OpenFMB is developed by an industry coalition of energy stakeholders within the 
 
 ### Contact
 
-For more information about the OpenFMB Users Group please contact us at [github.admin@ucaiug.org](mailto:github.admin@ucaiug.org).
+For more information about the OpenFMB Users Group please contact us at [openfmb-admin@openfmb.org](mailto:openfmb-admin@openfmb.org).
